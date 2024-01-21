@@ -1,7 +1,7 @@
 {
-  "url": "https://ton-connect.github.io/demo-dapp-with-wallet/",
-  "name": "Demo Dapp with wallet 222",
-  "iconUrl": "https://ton-connect.github.io/demo-dapp-with-wallet/apple-touch-icon.png",
-  "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-wallet/terms-of-use.txt",
-  "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-wallet/privacy-policy.txt"
+  "url": "https://tonda.vercel.app",
+  "name": "Tonda",
+  "iconUrl": "https://tonda.vercel.app/favicon.svg",
+  "termsOfUseUrl": "",
+  "privacyPolicyUrl": ""
 }
